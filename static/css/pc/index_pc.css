@@ -1,0 +1,62 @@
+.content{
+    width: 1160px;
+    margin: auto;
+}
+.index-gameTitle{
+    font-size: 28px;
+    text-align: center;
+    height: 100px;
+    background:url(/static/index/banner.png);
+    color: #7b7b7b;
+    line-height: 100px;
+}
+.index-content{
+
+}
+.gameAll{
+    height: 63px;
+    border-bottom: 1px solid #d1d1d1;
+    line-height: 75px;
+    font-size: 16px;
+    color: #7b7b7b;
+    width: 100%;
+}
+.gameBox{
+    height: 120px;
+    border-bottom: 1px solid #d1d1d1;
+}
+.gameIcon{
+    width: 80px;
+    float: left;
+    margin-left: 20px;
+    height: 100%;
+}
+.gameIcon img{
+    width: 76px;
+    margin-top: 21px;
+}
+.gameDescBox{
+    width: 1034px;
+    float: left;
+    margin-left: 6px;
+    height: 100%;
+}
+.gameName{
+    font-size: 20px;
+    color: #121212;
+    height: 20px;
+    line-height: 20px;
+    margin-left: 10px;
+    margin-top: 25px;
+}
+.gameDesc{
+    height: 14px;
+    line-height: 14px;
+    margin-top: 5px;
+}
+.gameDesc p {
+    text-align: justify;
+    line-height: 24px;
+    font-size: 14px;
+    color: #787878;
+}
