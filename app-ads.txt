@@ -59,3 +59,6 @@ pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
 pubnative.net, 1007170, RESELLER, d641df8625486a7b
 Verve.com, 15290, RESELLER, 0c8f5958fc2d6270
 indexexchange.com, 191086, RESELLER
+tapjoy.com, b3b7cb33101a45028c61ebdde1c5457d, DIRECT, 29e595b1aeb5904d
+rubiconproject.com, 12286, RESELLER, 0bfd66d529a55807
+pubmatic.com,159856,DIRECT,5d62403b186f2ace
