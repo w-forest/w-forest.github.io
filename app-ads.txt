@@ -1,3 +1,8 @@
+adingo.jp, 24837, DIRECT
+adingo.jp, 24839, DIRECT
+pubmatic.com, 158060, RESELLER, 5d62403b186f2ace
+pubmatic.com, 157962, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158853, RESELLER, 5d62403b186f2ace
 facebook.com, 321519181679852, RESELLER, c3e20eee3f780d68
 facebook.com, 294907834772487, RESELLER, c3e20eee3f780d68
 facebook.com, 332497283941993, RESELLER, c3e20eee3f780d68
